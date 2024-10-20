@@ -1,7 +1,10 @@
 # 💫 About Me:
-> currontly working on:
-> ELW – Engineer's Life Workflow
-> ELW is a tool designed to make the life of a software engineer easier.
+
+ <div style="border: 1px solid black; padding: 10px;">
+ currontly working on:
+ ELW – Engineer's Life Workflow
+ ELW is a tool designed to make the life of a software engineer easier.
+ </div>
 
 
 # 💻 Tech Stack:
