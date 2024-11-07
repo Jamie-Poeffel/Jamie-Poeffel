@@ -1,11 +1,6 @@
 # 💫 About Me:
 
-<div style="border: 1px solid white; border-radius: 20px; padding: 10px;">
-  <strong>Currently working on:</strong><br>
-  <strong>ELW – Engineer's Life Workflow</strong><br>
-  ELW is a tool designed to make the life of a software engineer easier.
-</div>
-
+I am currontly working on Affing a website where you can create Affiliate marketing links and get paid for them
 
 
 # 💻 Tech Stack:
