@@ -16,7 +16,7 @@ I am Currently working on ELW (Enhanced Lightweight Workbench)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 --
-[[Planly](https://cdn-icons-png.flaticon.com/512/10597/10597322.png)](https://planly-c24770.gitlab.io)
+[(https://cdn-icons-png.flaticon.com/512/10597/10597322.png)](https://planly-c24770.gitlab.io)
 ---
 [![](https://visitcount.itsvg.in/api?id=Jamie-poeffel&icon=10&color=8)](https://visitcount.itsvg.in)
 
