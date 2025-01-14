@@ -17,9 +17,6 @@ I am currontly working on Affing a website where you can create Affiliate market
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-[Portfolio](https://www.example.com)
-<br />
-<br />
 [Planly](https://planly-c24770.gitlab.io)
 ---
 [![](https://visitcount.itsvg.in/api?id=Jamie-poeffel&icon=10&color=8)](https://visitcount.itsvg.in)
