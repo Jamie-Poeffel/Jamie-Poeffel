@@ -1,6 +1,19 @@
-## About me
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+
+<p align="left">My name is Jamie and I'm a upcoming Software enginere.
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+<p align="left">📚 I'm currently learning Docker and MongoDB<br>🎯 Goals: Work at Google<br>🎲 Fun fact: I'm a Dev that has fun</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -39,7 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
 ###
 
 ###
