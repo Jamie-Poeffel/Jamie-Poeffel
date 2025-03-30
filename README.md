@@ -1,6 +1,6 @@
-# 💫 About Me:
+## About me
 
-I am Currently working on ELW (Enhanced Lightweight Workbench)
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -35,6 +35,8 @@ I am Currently working on ELW (Enhanced Lightweight Workbench)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
+
+###
 
 ---
 [![Planly](https://cdn-icons-png.flaticon.com/64/10597/10597322.png) Planly](https://planly-c24770.gitlab.io)
