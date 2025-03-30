@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">📚 I'm currently learning Docker and MongoDB<br>🎯 Goals: Work at Google<br>🎲 Fun fact: I Love to automate my live</p>
+<p align="left">📚 I'm currently learning Docker and MongoDB<br>🎯 Goals: Work at Google<br>🎲 Fun fact: I love to automate my live</p>
 
 ###
 
