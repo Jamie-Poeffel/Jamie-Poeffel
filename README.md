@@ -64,11 +64,11 @@
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jamie-Poeffel&theme=dark&ring=4393FA&file=4393FA&currStreakNum=4393FA&currStreakLabel=4393FA&hide_border=true&justify_content=center)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-Poeffel&hide_border=true&show_icons=true&bg_color=151515&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=fff)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-Poeffel&hide_border=true&show_icons=true&bg_color=151515&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=fff&justify_content=center)
 
 ###
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamie-Poeffel/Jamie-Poeffel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamie-Poeffel/Jamie-Poeffel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jamie-Poeffel/Jamie-Poeffel/output/github-snake.svg" />
