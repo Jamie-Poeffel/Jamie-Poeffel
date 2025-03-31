@@ -59,7 +59,7 @@
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jamie-Poeffel&theme=dark&ring=4393FA&file=4393FA&currStreakNum=4393FA&currStreakLabel=4393FA&hide_border=true)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-Poeffel&hide_border=true&show_icons=true&bg_color=4393FA&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=186BD7)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-Poeffel&hide_border=true&show_icons=true&bg_color=&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=186BD7)
 
 ###
 
