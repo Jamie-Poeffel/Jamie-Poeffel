@@ -62,10 +62,6 @@
 </div>
 
 ###
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jamie-Poeffel&theme=dark&ring=4393FA&file=4393FA&currStreakNum=4393FA&currStreakLabel=4393FA&hide_border=true" alt="Github stats"/>
-</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jamie-Poeffel&hide_border=true&show_icons=true&bg_color=151515&title_color=4393FA&icon_color=4393FA&text_bold=false&text_color=fff" alt="Your GitHub stats"/>
 </div>
