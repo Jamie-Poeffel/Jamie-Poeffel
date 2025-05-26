@@ -11,6 +11,16 @@
 
 ###
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jamie.poeffel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jamie-Poeffel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamie_zg)
+
+</div>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
@@ -59,6 +69,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h1 align="center"> My Trophies </h1>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Jamie-Poeffel&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ###
