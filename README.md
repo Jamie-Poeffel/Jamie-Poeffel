@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Docker and MongoDB<br>🎯 Goals: Work at Google<br>🎲 Fun fact: I love to automate my live</p>
+<p align="center"> I'm currently learning Docker and MongoDB<br> Goals: Work at Google<br> Fun fact: I love to automate my live</p>
 
 ###
 
